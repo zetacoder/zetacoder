@@ -108,7 +108,7 @@ I believe that modern data architecture should:
 ## 📚 Education & Certifications
 
 **Snowflake Certifications and Badges**
-- ![Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/1518faf9-d2b3-4174-a50e-31aab0dafd3e)
+- ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/1518faf9-d2b3-4174-a50e-31aab0dafd3e)
 
 **HarvardX – Introduction to Data Science with Python (2025)**  
 - 🧾 Certificate: [View HarvardX CS109x Credential](https://courses.edx.org/certificates/9bc4dff4032542dbbd4e0af50ff83084)
