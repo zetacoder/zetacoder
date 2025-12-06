@@ -18,7 +18,7 @@ My expertise lies in **architecting modern data platforms**, driving **end-to-en
 ## 🚀 Key Highlights & Achievements
 
 - 🏆 **Architected UPS’s Near Real-Time (NRT) platform**, ranked **#1 in InformationWeek’s Elite 100 (2015)**.  
-- ⚙️ Designed and led the **migration of multiple legacy systems to Azure & Microsoft Fabric**, modernizing analytics capabilities for LAM Research.  
+- ⚙️ Designed and led the **migration of multiple legacy systems to Azure & Microsoft Fabric**, modernizing analytics capabilities.  
 - 💡 Delivered **40x performance improvement** through SQL and pipeline optimization at ABC Supply.  
 - 🔄 Built **reusable data engineering frameworks** for Azure Data Factory, Synapse, and Databricks—adopted organization-wide.  
 - 🧩 Led cross-functional teams across the U.S. and India, ensuring high performance, code quality, and mentoring of emerging talent.  
