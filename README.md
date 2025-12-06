@@ -105,13 +105,21 @@ I believe that modern data architecture should:
 
 ---
 
-## 🎓 Certifications & Continuous Learning
+## 📚 Education & Certifications
 
-- **CS109x - Introduction to Data Science with Python** — HarvardX (2025)  
-- **Bachelor of Technology, Computer Science** — UP Technical University (2007)  
-- *Currently expanding expertise in AI-ready data architectures and Microsoft Fabric ecosystem.*
+**Snowflake Certifications and Badges**
+- ![Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/1518faf9-d2b3-4174-a50e-31aab0dafd3e)
+
+**HarvardX – Introduction to Data Science with Python (2025)**  
+- 🧾 Certificate: [View HarvardX CS109x Credential](https://courses.edx.org/certificates/9bc4dff4032542dbbd4e0af50ff83084)
+
+**Bachelor of Technology, Computer Science (2007)**  
+- IIMT Engineering College, Meerut, India (UP Technical University)
 
 ---
+
+💡 *Currently expanding expertise in AI-ready data architectures and the Microsoft Fabric ecosystem.*
+
 
 ## 🌐 Connect & Contact
 
