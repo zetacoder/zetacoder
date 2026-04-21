@@ -113,6 +113,7 @@ I believe that modern data architecture should:
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Application Builders Workshop](https://achieve.snowflake.com/7f197796-90e9-4125-8686-615a4c0eb28e#acc.N1Giwka5)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Lake Workshop](https://achieve.snowflake.com/9508c2ba-c6b8-4c56-853b-ee1e72da0bcd#acc.XBRoAdiC)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Engineering Workshop](https://achieve.snowflake.com/9be8319f-17d0-48ac-94b3-39081cabdcf7#acc.S7LioUnv)
+
 **HarvardX – Introduction to Data Science with Python (2025)**  
 - 🧾 Certificate: [View HarvardX CS109x Credential](https://courses.edx.org/certificates/9bc4dff4032542dbbd4e0af50ff83084)
 
