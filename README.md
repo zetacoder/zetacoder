@@ -108,14 +108,18 @@ I believe that modern data architecture should:
 ## 📚 Education & Certifications
 
 **Snowflake Certifications and Badges**
+- ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Science Workshop](https://achieve.snowflake.com/3f58a6af-72f5-49a4-ae74-1bbc7bf82061#acc.TuoxS4lm)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/1518faf9-d2b3-4174-a50e-31aab0dafd3e)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop](https://achieve.snowflake.com/bb9f5e19-fdf1-4756-9437-a9d42074e1c2#acc.tXUEoycx)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Application Builders Workshop](https://achieve.snowflake.com/7f197796-90e9-4125-8686-615a4c0eb28e#acc.N1Giwka5)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Lake Workshop](https://achieve.snowflake.com/9508c2ba-c6b8-4c56-853b-ee1e72da0bcd#acc.XBRoAdiC)
 - ![Snowflake Badge](https://img.shields.io/badge/Snowflake-Certified-blue) [Hands-On Essentials: Data Engineering Workshop](https://achieve.snowflake.com/9be8319f-17d0-48ac-94b3-39081cabdcf7#acc.S7LioUnv)
 
-**HarvardX – Introduction to Data Science with Python (2025)**  
+**HarvardX - Introduction to Data Science with Python (2025)**  
 - 🧾 Certificate: [View HarvardX CS109x Credential](https://courses.edx.org/certificates/9bc4dff4032542dbbd4e0af50ff83084)
+
+**DeepLearning.AI - Supervised Machine Learning: Regression and Classification**  
+- 🧾 Certificate: [View Credential](https://www.coursera.org/account/accomplishments/verify/JAKY2WTX2959)
 
 **Bachelor of Technology, Computer Science (2007)**  
 - IIMT Engineering College, Meerut, India (UP Technical University)
