@@ -96,6 +96,8 @@ I believe that modern data architecture should:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
+---
+
 ## 🧩 Signature Projects
 
 ### **1️⃣ UPS Near Real-Time Platform**
